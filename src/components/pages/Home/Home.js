@@ -55,7 +55,7 @@ const Home = () => (
     </div>
 
     <div className = "col-12 col-md-6  my-5 text-center hvr-bob">
-    <i className="fas fa-file fa-3x"></i><a className = "button" href="https://github.com/henrymontesanoiii" rel="noreferrer noopener" target="_blank"><h4>Resume</h4></a>
+    <i className="fas fa-file fa-3x"></i><a className = "button" href="https://drive.google.com/open?id=1j3uHNubSyeh079_8ZfstltP3JTfWML8b" rel="noreferrer noopener" target="_blank"><h4>Resume</h4></a>
     </div>
 
     

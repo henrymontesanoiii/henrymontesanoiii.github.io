@@ -9,6 +9,7 @@ import "../src/css/App.css";
 const App = () => (
   <Router>
     <div>
+      <br></br>
       <NavTabs />
       <Route exact path="/home" component={Home} />
       <Route exact path="/about" component={About} />
