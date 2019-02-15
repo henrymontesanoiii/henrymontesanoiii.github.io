@@ -33,7 +33,7 @@ const Portfolio = () => (
      <div className= "col-12 col-md-6">
      <h2>NEXT</h2>
      <h3>Trip & travel logging with integrated User login authentication, linked to MySQL database for conservation of user's past trips & reviews, as well as general review search functionality</h3>
-     </div>
+     </div>w
      </div>
 
      <div className = "row my-2">
