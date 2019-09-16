@@ -74,7 +74,7 @@ class Home extends Component {
                   </div>
 
                   <div className="col-12 col-md-6  my-5 text-center hvr-bob">
-                    <i className="fas fa-file fa-3x"></i><a className="button" href="https://drive.google.com/file/d/1XBvS7BZG2XvSvqRZi1dRVMC-CHzNFubo/view?usp=sharing" rel="noreferrer noopener" target="_blank"><h4>Resume</h4></a>
+                    <i className="fas fa-file fa-3x"></i><a className="button" href="https://drive.google.com/open?id=1_fkUtMu2ypTruoJ4Mb3r1keke-T6Igud" rel="noreferrer noopener" target="_blank"><h4>Resume</h4></a>
                   </div>
 
 
